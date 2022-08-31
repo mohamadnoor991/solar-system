@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/solar-system.git/static/css/main.745a43b8.css",
-    "main.js": "/solar-system.git/static/js/main.517440cb.js",
-    "static/js/787.d96af89e.chunk.js": "/solar-system.git/static/js/787.d96af89e.chunk.js",
+    "main.css": "/solar-system.git/static/css/main.4e3d1c98.css",
+    "main.js": "/solar-system.git/static/js/main.b93b5a60.js",
     "static/media/Mars.jpg": "/solar-system.git/static/media/Mars.c1e2b37e3a7ab07712e3.jpg",
     "static/media/stars.gif": "/solar-system.git/static/media/stars.1581ff838ab6a9a382ef.gif",
     "static/media/Pluto.jpg": "/solar-system.git/static/media/Pluto.5abb74d8302728d5beaa.jpg",
@@ -14,12 +13,11 @@
     "static/media/Jupiter.jpg": "/solar-system.git/static/media/Jupiter.5a437fe71772f785f5ed.jpg",
     "static/media/Mercury.jpg": "/solar-system.git/static/media/Mercury.c99dcc6c9f6e1f7c2f30.jpg",
     "index.html": "/solar-system.git/index.html",
-    "main.745a43b8.css.map": "/solar-system.git/static/css/main.745a43b8.css.map",
-    "main.517440cb.js.map": "/solar-system.git/static/js/main.517440cb.js.map",
-    "787.d96af89e.chunk.js.map": "/solar-system.git/static/js/787.d96af89e.chunk.js.map"
+    "main.4e3d1c98.css.map": "/solar-system.git/static/css/main.4e3d1c98.css.map",
+    "main.b93b5a60.js.map": "/solar-system.git/static/js/main.b93b5a60.js.map"
   },
   "entrypoints": [
-    "static/css/main.745a43b8.css",
-    "static/js/main.517440cb.js"
+    "static/css/main.4e3d1c98.css",
+    "static/js/main.b93b5a60.js"
   ]
 }
