@@ -1,0 +1,116 @@
+.solar{
+    position:fixed;
+   /* height:auto; */
+  /* width:auto;  */
+    /* flex: 0 0 auto;         ADD */
+   display: flex;   
+  left: 800px; 
+  top: 160px;      
+  /* flex-direction: column;  */
+  /* position: relative; */
+   /* justify-content: center; */
+  /* align-items: center; */
+  /* new adding to rotoate the planets */
+     animation: mymove 8s infinite; 
+  animation-iteration-count: infinite;
+    animation-timing-function: linear; 
+}
+
+
+
+.state--valuesun{
+  /* position: inherit; */
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  cursor: pointer;
+        /* new adding to rotoate the planets */
+    animation: mymove 10s infinite;
+  animation-iteration-count: infinite;
+   animation-timing-function: linear;
+}
+
+.share{
+position:absolute;
+height: 100px;
+width: 100px;
+border-radius: 50%;
+cursor: pointer;
+ /* new adding to rotoate the planets */
+animation: mymove 10s infinite;
+animation-iteration-count: infinite;
+animation-timing-function: linear;
+
+/* -webkit-box-reflect: left 200px; */
+
+   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.state--value1 {
+left: 337px;  
+top: 115px;  
+/* background-color: white; */
+/* background: url(./images/th.jpg); */
+/* background-image: url("./images/th.jpg"); */
+}
+.state--value2 {
+left: 250px;
+top: -81px;
+  /* display:flex;
+  justify-content: center;
+  align-items: center; */
+}
+.state--value3 {
+left: 276px;
+top: 245px;
+}
+.state--value4 {
+left: 156px;
+top: 320px;
+}
+.state--value5 {
+left: 36px;
+top: 310px;
+}
+.state--value6 {
+left: -80px;
+top: 240px;
+}
+
+.state--value7 {
+left: -130px;
+top: 100px;
+}
+
+.state--value8 {
+left: -90px;
+top: -50px;
+
+}
+
+.state--value9 {
+left: 60px;
+top: -130px;
+}
+
+@keyframes mymove {
+
+  from {
+      transform: rotate(0deg);
+  }
+
+  to {
+      transform: rotate(359deg);
+  }
+  
+}
+.text--class{
+  position: fixed;
+ left: 50px;
+  width: 400px;
+  top:5cm;
+  color: yellowgreen ;
+  /* background-color:blue; */
+  
+}
